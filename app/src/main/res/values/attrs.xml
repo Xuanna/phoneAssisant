@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScaleTextView">
+        <attr name="normalTextColor" format="color"/>
+        <attr name="selectedTextColor" format="color"/>
+        <attr name="normalTextSize" format="dimension"/>
+        <attr name="selectedTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>

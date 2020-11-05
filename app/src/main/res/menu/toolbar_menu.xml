@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/menu_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_download"
+        android:title="@string/download"
+        app:showAsAction="ifRoom"
+
+        />
+<!--    app:actionProviderClass=""替换里面的icon，填入自定义控件地址-->
+
+</menu>
